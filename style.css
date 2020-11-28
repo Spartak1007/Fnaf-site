@@ -1,0 +1,39 @@
+.Header {
+	background-color: #803209; height: 100px; display: flex;
+}
+.Plot {
+	background-color: ; height: 150px; display: flex; text-align: center;
+}
+.Office {
+	background-color: orange; height: 720px; background-image: url(https://i.redd.it/2ppimbkmyba31.png); background-size: 100% 100%
+}
+.Animatronics {
+	background-color: blue; height: 300px; display: flex; 
+}
+.Rectangle {
+	background-color: black; height: 500px; width: 500px; border: 1px solid white;
+}
+.Rectangle1 {
+	background-color: black; height: 700px; width: 500px; border: 1px solid white;
+}
+.Rectangle2 {
+	background-color: black; height: 700px; width: 500px; border: 1px solid white;
+}
+.Rectangle3 {
+	background-color: black; height: 700px; width: 500px; border: 1px solid white;
+}
+.Img {
+	width: 462px; height: 500px;
+}
+.teaser {
+	width: 130px; height: 100px;
+}
+.FNaF {
+	font-family: arial; margin-top: 35px;
+}
+.button {
+	color: black; margin-top: 38px; margin-left: 600px; font-family: arial; 
+}
+.audio {
+	margin-left: 1000px; margin-top: 490px;
+}
